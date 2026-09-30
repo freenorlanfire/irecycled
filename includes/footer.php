@@ -1,0 +1,3 @@
+</main>
+<footer class="site-footer"><div class="container footer-inner"><div><a class="footer-brand" href="index.php">Intelligent Recycled</a><p>Reparar · Reutilizar · Reciclar · Ecodiseñar</p></div><div><p class="footer-label">Explora</p><a href="servicios.php">Servicios</a><a href="productos.php">Productos</a><a href="contacto.php">Contacto</a></div><div><p class="footer-label">Compromiso</p><p>Construyendo una tecnología más circular.</p></div></div><div class="container footer-bottom"><span>© <?= date('Y') ?> Intelligent Recycled</span><span>Hecho para un futuro reutilizable.</span></div></footer>
+</body></html>

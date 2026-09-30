@@ -1,0 +1,7 @@
+<?php
+$pageTitle = 'Productos';
+require __DIR__ . '/includes/header.php';
+?>
+<section class="page-intro"><p class="eyebrow">Catálogo circular</p><h1>Productos con una historia que continúa.</h1><p>Estos ejemplos muestran el tipo de productos reacondicionados o ecodiseñados que podemos ofrecer. La disponibilidad real se confirma bajo consulta.</p></section>
+<section class="section"><div class="card-grid three-columns"><article class="product-card"><div class="product-visual visual-phone">▣</div><div class="product-content"><span class="tag">Ejemplo</span><h2>Móviles reacondicionados</h2><p>Equipos revisados para volver a ser útiles.</p><a href="contacto.php" class="text-link">Consultar disponibilidad →</a></div></article><article class="product-card"><div class="product-visual visual-laptop">▤</div><div class="product-content"><span class="tag">Ejemplo</span><h2>Portátiles recuperados</h2><p>Tecnología preparada para estudiar, trabajar o crear.</p><a href="contacto.php" class="text-link">Consultar disponibilidad →</a></div></article><article class="product-card"><div class="product-visual visual-material">◇</div><div class="product-content"><span class="tag">Ecodiseño</span><h2>Objetos con material recuperado</h2><p>Diseños que convierten residuos en nuevas posibilidades.</p><a href="contacto.php" class="text-link">Hablar sobre un proyecto →</a></div></article></div></section>
+<?php require __DIR__ . '/includes/footer.php'; ?>
